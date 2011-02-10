@@ -1,0 +1,13 @@
+LICHTBRUECKE
+
+Lichtbruecke is a high bandwidth (100MBit/s...1GBit/s) Free Space
+Optics communication and networking platform.
+
+This project will contain
+
+* electronic schematics
+* PCB layouts
+* mechanical construction
+* DSP firmware sources
+* FPGA VDHL sources
+
